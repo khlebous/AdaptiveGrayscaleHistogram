@@ -1,0 +1,10 @@
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\bin\Debug\AdaptiveGrayscaleHistogram.exe.config
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\bin\Debug\AdaptiveGrayscaleHistogram.exe
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\bin\Debug\AdaptiveGrayscaleHistogram.pdb
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.Form1.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.histogram.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.Properties.Resources.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.exe
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\1.PwSG\AdaptiveGrayscaleHistogram\AdaptiveGrayscaleHistogram\obj\Debug\AdaptiveGrayscaleHistogram.pdb
